@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **dilanshjain/dilanshjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,9 +26,7 @@ I’m a B.Tech student who enjoys working with data and turning it into somethin
 ---
 [![](https://visitcount.itsvg.in/api?id=dilanshjain&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...# 💫 About Me:
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> About Me:
 I’m a B.Tech student who enjoys working with data and turning it into something meaningful. Lately, I’ve been building projects using Power BI, SQL, and Python, mainly focusing on creating dashboards and finding useful insights from raw data. I’m always open to collaborating on interesting data-related projects and learning new things along the way. Right now, I’m exploring Data Science, Tableau, and different Python libraries to improve my skills. If you’re into data, dashboards, or analytics, feel free to connect—I’d be happy to discuss and learn together. I also find it really satisfying to turn complex data into simple and easy-to-understand visuals.<br>
 
 
