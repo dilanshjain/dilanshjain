@@ -1,4 +1,4 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dilanshjain)
+![Profile_views](https://visitor-badge.laobi.icu/badge?page_id=dilanshjain)
 
 <!--
 **dilanshjain/dilanshjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
